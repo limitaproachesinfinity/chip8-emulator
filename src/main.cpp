@@ -18,7 +18,6 @@ struct CPU {
 };
 
 int main() {
-  std::cout << sizeof(uint8_t) << " " << sizeof(uint16_t) << "\n";
 
   return 0;
 }
